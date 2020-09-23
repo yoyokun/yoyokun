@@ -1,1 +1,1 @@
-[![yoyokun's github stats](https://github-readme-stats.vercel.app/api?username=yoyokun)]
+[yoyokun's github stats](https://github-readme-stats.vercel.app/api?username=yoyokun)
